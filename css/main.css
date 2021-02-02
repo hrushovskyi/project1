@@ -1,4 +1,8 @@
 marquee{
 	font-size: 24px;
 	padding-top: 50px;
+	background-color: red;
+}
+.firstimg{
+	padding-top: 150px;
 }
